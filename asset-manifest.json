@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-motion-todoApp/static/css/main.0d57ca5e.css",
+    "main.js": "/react-redux-motion-todoApp/static/js/main.5870b32b.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-redux-motion-todoApp/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/react-redux-motion-todoApp/index.html",
+    "main.0d57ca5e.css.map": "/react-redux-motion-todoApp/static/css/main.0d57ca5e.css.map",
+    "main.5870b32b.js.map": "/react-redux-motion-todoApp/static/js/main.5870b32b.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-redux-motion-todoApp/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d57ca5e.css",
+    "static/js/main.5870b32b.js"
+  ]
+}
